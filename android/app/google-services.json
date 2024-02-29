@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025171489135",
+    "project_id": "payflow-abc82",
+    "storage_bucket": "payflow-abc82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025171489135:android:0aaeead1e224e0a2fd689a",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRCG-bYYHX6sv3Yt1b38JdQ380HBTIntY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
